@@ -1,0 +1,11 @@
+Day 1 : 
+
+todo 
+hOW WEBSITE WORKS 
+Frontend
+Backend
+API
+SQL
+NOSQL
+CSR(client side rendering)
+SSR(server side rendering)
