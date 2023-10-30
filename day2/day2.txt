@@ -1,0 +1,14 @@
+day 2 todo
+
+What is Nodejs ? 
+how to setup project in nodejs 
+simple get api 
+port number,express 
+Github
+
+Es - import * from 'express'
+	export default 
+CJS (commmon js ) - require("express")
+module.exports = 
+
+localhost ==> decimal => 127.0.0.1 ==> hex => [::1]
