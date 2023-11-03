@@ -1,0 +1,13 @@
+Today todo
+
+Problem statement
+
+everytime nodejs server manually restart garnuparyo
+solution nodemon 
+DONE
+
+
+EJS 
+moustache
+handlebar
+pug

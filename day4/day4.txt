@@ -1,0 +1,19 @@
+TODO 
+
+Project discussion 
+Project setup 
+Project UI 
+
+semVer versioning (semantic versioning)
+major.minor.patch
+
+const fullname= "Manish Basnet"
+const fullName = "Manish Basnet" camelcase
+const full_name = "Manish Basnet" snake case
+const full-name = "Manish Basnet" kebab case
+const FullName = "Manish Basnet" Pascal case
+
+fullnamecastetest ----> fullNameCasteTest
+sanke -> full_name_caste_test
+full-name-caste-test
+FullName

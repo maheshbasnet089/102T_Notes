@@ -1,0 +1,13 @@
+todo 
+database connection 
+create operation 
+ORM(object relational mapping) ,ODM (object data modelling)
+SQL 
+mysql2 sequelize 
+
+SELECT * FROM blogs  - blogs.findAll()
+INSERT INTO blogs(title,subTitle,description) VALUES("hello this is title","hello this is subttile","description") - blogs.create({
+title : "hello this is title",
+subTitle : "hello this is subtitle",
+description : "description"
+})
