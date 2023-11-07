@@ -1,0 +1,14 @@
+Todo  : 
+Middleware
+
+File handling(Multer) local,production
+
+content type - application/json
+content type -  application/x-www-form-urlencoded
+File cT = multipart/form-data
+
+multer (npm i multer) = busboy
+
+Unexpected Multer Field Error
+
+filesize directly proportional to time

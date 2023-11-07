@@ -1,0 +1,42 @@
+TODO 
+s3Bucket,cpanel(kailash),digitalocean spaces 
+CRUD(create,read,update,delete)
+Create - done
+Read -> SingleRead
+->All read( aba garum)
+.findAll() => 
+let name1  = "Manish"
+var name2 = "Mahesh"
+const name3 = "Hello world"
+const names = ["Manish","Mahesh","Hello world","bye world"]
+console.log(name1)
+console.log(name2)
+console.log(name3)
+
+allBlogs = [
+{
+	title : 'hello world',
+	subTitle : "This is subttile"
+	description : "This is description"
+},
+{
+	title : 'hello world',
+	subTitle : "This is subttile"
+	description : "This is description"
+
+}
+
+]
+
+
+map,filter,reduce
+allBlogs[0].title
+map(()=>{
+})
+
+
+blogs.map(()=>{
+return (
+)})
+
+

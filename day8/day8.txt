@@ -1,0 +1,41 @@
+Day 8  
+CRUD(create,read,update,delete)
+C - Done
+R ---> All Read (Done) , Single Read(baki xa aaja garnu parxa)
+U - baki xa parsi garxum 
+D - delete (aaja garxum )
+
+Single read blog
+Delete blog 
+
+.findAll({
+where : {
+name : "Manish Basnet'
+}
+}) --> Array ma data dinxa
+
+blog = [{
+
+    title: 'Ex et dolorum velit',
+    subTitle: 'Ut lorem harum incid',
+    description: 'Nesciunt molestiae ',
+    imageUrl: '1699271624616-24af849c-7b22-11ee-8e70-00163e00d5dd.png',
+    createdAt: 2023-11-06T11:53:44.000Z,
+    updatedAt: 2023-11-06T11:53:44.000Z
+  }]
+blogs.length = 0
+if(blogs.length> 0)
+	vetena
+
+.findByPk()---> object ma data return garxa 
+blogs = {
+    id: 2,
+    title: 'Ex et dolorum velit',
+    subTitle: 'Ut lorem harum incid',
+    description: 'Nesciunt molestiae ',
+    imageUrl: '1699271624616-24af849c-7b22-11ee-8e70-00163e00d5dd.png',
+    createdAt: 2023-11-06T11:53:44.000Z,
+    updatedAt: 2023-11-06T11:53:44.000Z
+  }
+if(blogs){
+}
