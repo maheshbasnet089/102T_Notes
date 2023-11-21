@@ -1,0 +1,11 @@
+NODEJS ma registration process 
+Hashing --> 1 way 
+Encryption/Decryption --> 2 way 
+Man in the middle attack (MITM)
+Http/https
+Register User
+
+bcrypt
+bcryptjs
+
+$2b$10$VJBsjqmW6lfqGpawDZUkSOBIUyR98V3SQCfB7JpoWdF57merf8K4K
